@@ -12,3 +12,11 @@
 &nbsp;&nbsp;
 
 </div>
+
+<div>
+ 
+## About me
+ 
+I am D.K.S. Kothalawala, an undergraduate student reading for a Bachelor of Science degree in Mathematics, Industrial Mathematics, and Physics at the University of Ruhuna, Sri Lanka. My academic focus lies in understanding the foundational structures of mathematics and applying them to real world problems through modelling, computation, and analytical reasoning. My interests span real analysis, abstract algebra, differential equations, numerical methods, operations research, and mathematical statistics.
+
+</div>
