@@ -51,3 +51,9 @@ This project is a mathematical computing application developed to model and pred
 📂 [**View Project Repository →**](https://github.com/kumodhyasewmini/Cubic-Spline-Mortality-Model.git)
  
 </div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=150&section=footer&text=Thank%20You&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+</div>
