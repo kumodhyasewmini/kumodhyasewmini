@@ -38,3 +38,16 @@ I am D.K.S. Kothalawala, an undergraduate student reading for a Bachelor of Scie
 - 💻 Computational Methods
 
 </div>
+
+<div>
+
+## Featured projects
+
+### 🔮 **Cubic Spline Mortality Model**
+![HTML](https://img.shields.io/badge/LANGUAGE-C-00599C?style=for-the-badge)
+
+This project is a mathematical computing application developed to model and predict mortality rates based on age using cubic spline interpolation. It allows users to input age data, generates continuous piecewise cubic polynomials between age intervals, and produces smooth mortality curves with high accuracy. The model enforces continuity of first and second derivatives, applies natural boundary conditions, and provides an interactive C program that outputs spline equations, polynomial transformations, and predicted mortality values for any given age within the range.
+
+📂 [**View Project Repository →**](https://github.com/kumodhyasewmini/Cubic-Spline-Mortality-Model.git)
+ 
+</div>
