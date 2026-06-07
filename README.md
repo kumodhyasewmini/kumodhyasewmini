@@ -28,14 +28,22 @@ I am D.K.S. Kothalawala, an undergraduate student reading for a Bachelor of Scie
 **Core areas**
  
 - 📐 Real Analysis
-- 🧠 Abstract Algebra
+- 🧠 Linear Algebra
 - 🪐 Classical Mechanics
-- 📊 Numerical Analysis
-- 📦 Operations Research
+- 📊 Applied Statistics
 - 📈 Mathematical Statistics
 - 🔁 Differential Equations
-- ➗ Linear Algebra
-- 💻 Computational Methods
+- ➗ Vector Analysis
+- 📖 Algebra
+- 📐 Calculus
+- 📏 Geometry
+- 📊 Mathematical Modelling
+- 💻 Mathematical Computing
+- ⚡ Electricity & Magnetism
+- 🔌 Electronics
+- 🔬 General Physics
+- 🧪 Physics Practicals
+- 🏃 Physical Fitness & Wellness
 
 </div>
 
