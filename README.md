@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Kumodhya Sewmini"/>
+<img src="./assets/Banner.png" width="100%" alt="Kumodhya Sewmini"/>
 
 <img src="https://komarev.com/ghpvc/?username=kumodhyasewmini&style=for-the-badge&color=7F77DD&label=PROFILE+VIEWS" alt="profile views"/>
 &nbsp;&nbsp;
