@@ -49,6 +49,13 @@ I am D.K.S. Kothalawala, an undergraduate student reading for a Bachelor of Scie
 This project is a mathematical computing application developed to model and predict mortality rates based on age using cubic spline interpolation. It allows users to input age data, generates continuous piecewise cubic polynomials between age intervals, and produces smooth mortality curves with high accuracy. The model enforces continuity of first and second derivatives, applies natural boundary conditions, and provides an interactive C program that outputs spline equations, polynomial transformations, and predicted mortality values for any given age within the range.
 
 📂 [**View Project Repository →**](https://github.com/kumodhyasewmini/Cubic-Spline-Mortality-Model.git)
+
+### 🔐 **Fingerprint Verification System**
+![MATLAB](https://img.shields.io/badge/LANGUAGE-MATLAB-00599C?style=for-the-badge)
+
+This project is a biometric identification system developed as a mathematical computing application to verify individual identity using fingerprint patterns. It applies Principal Component Analysis (PCA) for dimensionality reduction and feature extraction from grayscale fingerprint images. The system preprocesses images by resizing to 128×128 pixels, vectorization, mean subtraction, and covariance matrix construction. Eigen decomposition yields eigenprints (principal components) that capture the most significant fingerprint variations. A test fingerprint is projected into the same eigenprint space, and Euclidean distance is used to find the closest match against a training database. Implemented in MATLAB, the system successfully verifies or rejects fingerprints based on a defined distance threshold, demonstrating PCA's effectiveness in biometric recognition.
+
+📂 [**View Project Repository →**](https://github.com/kumodhyasewmini/Fingerprint-Verification-System.git)
  
 </div>
 
