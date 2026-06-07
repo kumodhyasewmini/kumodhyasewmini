@@ -56,6 +56,13 @@ This project is a mathematical computing application developed to model and pred
 This project is a biometric identification system developed as a mathematical computing application to verify individual identity using fingerprint patterns. It applies Principal Component Analysis (PCA) for dimensionality reduction and feature extraction from grayscale fingerprint images. The system preprocesses images by resizing to 128×128 pixels, vectorization, mean subtraction, and covariance matrix construction. Eigen decomposition yields eigenprints (principal components) that capture the most significant fingerprint variations. A test fingerprint is projected into the same eigenprint space, and Euclidean distance is used to find the closest match against a training database. Implemented in MATLAB, the system successfully verifies or rejects fingerprints based on a defined distance threshold, demonstrating PCA's effectiveness in biometric recognition.
 
 📂 [**View Project Repository →**](https://github.com/kumodhyasewmini/Fingerprint-Verification-System.git)
+
+### ⚡ **Dominant Eigenvalue Finder - (In Progress)**
+![JAVA](https://img.shields.io/badge/LANGUAGE-JAVA-8A2B07?style=for-the-badge)
+
+This project is a Java-based numerical computing application that computes the dominant eigenvalue (largest in magnitude) and its corresponding eigenvector using the iterative Power Method. The program takes a square matrix as input, repeatedly applies matrix-vector multiplication with normalization, and converges to the principal eigenpair. It includes tolerance-based stopping criteria, maximum iteration limits, and displays step-by-step convergence progress. This lightweight Java system demonstrates core concepts of numerical linear algebra, making it useful for educational purposes and small-scale applications in vibration analysis, Google's PageRank, and principal component computations.
+
+📂 [**View Project Repository →**](https://github.com/kumodhyasewmini/Dominant-Eigenvalue-Finder.git)
  
 </div>
 
